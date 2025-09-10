@@ -78,7 +78,7 @@ DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=netflix_db
 DB_USER=postgres
-DB_PASSWORD=ton_mot_de_passe_pgadmin
+DB_PASSWORD=votre_mot_de_passe_pgadmin
 ```
 Ce fichier est ignoré par Git grâce au fichier .gitignore
 ---
